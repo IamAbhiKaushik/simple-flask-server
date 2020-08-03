@@ -1,0 +1,4 @@
+flask>=0.11
+requests
+flask_cors
+json
