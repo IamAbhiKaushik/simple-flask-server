@@ -2,6 +2,7 @@
 A simple flask app that works as an API server.
 
 # How to run
+0. run `pip install virtualenv`
 1. Create a virtual env. - `virtualenv --python=python3.6 python36`
 2. Activate Virtual env - `source python36/bin/activate`
 3. Git clone the repo - `git clone git@github.com:IamAbhiKaushik/simple-flask-server.git`
